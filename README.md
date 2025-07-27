@@ -39,6 +39,9 @@ npm install
 npx cap sync
 npx cap open android
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
 
 
 
