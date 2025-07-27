@@ -1,0 +1,57 @@
+/* src/App.css */
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.calendar-container {
+  text-align: center;
+}
+
+.form-container {
+  max-width: 600px;
+  margin: auto;
+}
+
+.top-bar {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.back-button {
+  margin-right: auto;
+  background-color: #ddd;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.location-row {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+}
+
+.location-row select {
+  width: 150px;
+  padding: 5px;
+}
+
+.button-group {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.save-button, .pdf-button {
+  padding: 10px 20px;
+  cursor: pointer;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+}
+
+.pdf-button {
+  background-color: #2196f3;
+}
