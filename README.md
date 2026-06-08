@@ -4,7 +4,7 @@
 
 ## 🧾 Description
 
-This app was built as a personal productivity tool to support my part-time job as a delivery agent for Surekha Dental Lab (India).  
+While managing marketing at Suraksha Dental Lab, I noticed that relying on memory to track pickup and delivery statuses across various clinics was leading to logistical confusion. To solve this, I built a custom Android app using AI coding assistants to serve as a digital ledger. By manually logging our clinic visits and order statuses into the app, I could instantly check where the last delivery or pickup occurred, completely eliminating order confusion and streamlining my workflow.  
 It helps track:
 
 - 17 dental clinic locations
